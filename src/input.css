@@ -39,6 +39,6 @@
   }
 
   .paragraph {
-    @apply text-whiteColor text-xs leading-5;
+    @apply text-paragraphColor text-xs leading-5;
   }
 }
